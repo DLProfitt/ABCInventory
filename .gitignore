@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.[Cc]ache
+*.[Rr]es[Ss]harper*
+*.[Tt]est[Rr]esult*
